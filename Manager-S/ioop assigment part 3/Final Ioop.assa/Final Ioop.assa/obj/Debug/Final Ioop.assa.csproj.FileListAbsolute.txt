@@ -1,0 +1,30 @@
+C:\Users\Dell\source\repos\Final Ioop.assa\Final Ioop.assa\obj\Debug\Final Ioop.assa.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Final Ioop.assa\Final Ioop.assa\obj\Debug\Final_Ioop.assa.Properties.Resources.resources
+C:\Users\Dell\source\repos\Final Ioop.assa\Final Ioop.assa\obj\Debug\Final Ioop.assa.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Final Ioop.assa\Final Ioop.assa\obj\Debug\Final Ioop.assa.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Final Ioop.assa\Final Ioop.assa\bin\Debug\Final Ioop.assa.exe.config
+C:\Users\Dell\source\repos\Final Ioop.assa\Final Ioop.assa\bin\Debug\Final Ioop.assa.exe
+C:\Users\Dell\source\repos\Final Ioop.assa\Final Ioop.assa\bin\Debug\Final Ioop.assa.pdb
+C:\Users\Dell\source\repos\Final Ioop.assa\Final Ioop.assa\obj\Debug\Final Ioop.assa.exe
+C:\Users\Dell\source\repos\Final Ioop.assa\Final Ioop.assa\obj\Debug\Final Ioop.assa.pdb
+C:\Users\Dell\source\repos\Final Ioop.assa\Final Ioop.assa\obj\Debug\Final_Ioop.assa.Manager.resources
+C:\Users\Dell\Downloads\ioop assigment part 3\Final Ioop.assa\Final Ioop.assa\bin\Debug\Final Ioop.assa.exe.config
+C:\Users\Dell\Downloads\ioop assigment part 3\Final Ioop.assa\Final Ioop.assa\bin\Debug\Final Ioop.assa.exe
+C:\Users\Dell\Downloads\ioop assigment part 3\Final Ioop.assa\Final Ioop.assa\bin\Debug\Final Ioop.assa.pdb
+C:\Users\Dell\Downloads\ioop assigment part 3\Final Ioop.assa\Final Ioop.assa\obj\Debug\Final Ioop.assa.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\ioop assigment part 3\Final Ioop.assa\Final Ioop.assa\obj\Debug\Final_Ioop.assa.Manager.resources
+C:\Users\Dell\Downloads\ioop assigment part 3\Final Ioop.assa\Final Ioop.assa\obj\Debug\Final_Ioop.assa.Properties.Resources.resources
+C:\Users\Dell\Downloads\ioop assigment part 3\Final Ioop.assa\Final Ioop.assa\obj\Debug\Final Ioop.assa.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\ioop assigment part 3\Final Ioop.assa\Final Ioop.assa\obj\Debug\Final Ioop.assa.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\ioop assigment part 3\Final Ioop.assa\Final Ioop.assa\obj\Debug\Final Ioop.assa.exe
+C:\Users\Dell\Downloads\ioop assigment part 3\Final Ioop.assa\Final Ioop.assa\obj\Debug\Final Ioop.assa.pdb
+C:\Users\Dell\Downloads\part 3 the manager8989\ioop assigment part 3\Final Ioop.assa\Final Ioop.assa\bin\Debug\Final Ioop.assa.exe.config
+C:\Users\Dell\Downloads\part 3 the manager8989\ioop assigment part 3\Final Ioop.assa\Final Ioop.assa\bin\Debug\Final Ioop.assa.exe
+C:\Users\Dell\Downloads\part 3 the manager8989\ioop assigment part 3\Final Ioop.assa\Final Ioop.assa\bin\Debug\Final Ioop.assa.pdb
+C:\Users\Dell\Downloads\part 3 the manager8989\ioop assigment part 3\Final Ioop.assa\Final Ioop.assa\obj\Debug\Final Ioop.assa.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\part 3 the manager8989\ioop assigment part 3\Final Ioop.assa\Final Ioop.assa\obj\Debug\Final_Ioop.assa.Manager.resources
+C:\Users\Dell\Downloads\part 3 the manager8989\ioop assigment part 3\Final Ioop.assa\Final Ioop.assa\obj\Debug\Final_Ioop.assa.Properties.Resources.resources
+C:\Users\Dell\Downloads\part 3 the manager8989\ioop assigment part 3\Final Ioop.assa\Final Ioop.assa\obj\Debug\Final Ioop.assa.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\part 3 the manager8989\ioop assigment part 3\Final Ioop.assa\Final Ioop.assa\obj\Debug\Final Ioop.assa.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\part 3 the manager8989\ioop assigment part 3\Final Ioop.assa\Final Ioop.assa\obj\Debug\Final Ioop.assa.exe
+C:\Users\Dell\Downloads\part 3 the manager8989\ioop assigment part 3\Final Ioop.assa\Final Ioop.assa\obj\Debug\Final Ioop.assa.pdb
